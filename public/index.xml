@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>T宇奇的网站</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on T宇奇的网站</description>
+    <image>
+      <title>T宇奇的网站</title>
+      <url>http://localhost:1313/opengraph.webp</url>
+      <link>http://localhost:1313/opengraph.webp</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>zh</language>
+    <lastBuildDate>Sat, 24 Aug 2024 00:15:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sat, 24 Aug 2024 00:15:45 +0800</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Wechat: T宇奇说话 QQ:2107172402 Email:2107172402@qq.com</description>
+    </item>
+    <item>
+      <title>Test_on_questions</title>
+      <link>http://localhost:1313/questions/test_on_questions/</link>
+      <pubDate>Sat, 24 Aug 2024 00:12:54 +0800</pubDate>
+      <guid>http://localhost:1313/questions/test_on_questions/</guid>
+      <description>this is test #1 on questions </description>
+    </item>
+    <item>
+      <title>Test_on_talks</title>
+      <link>http://localhost:1313/talks/test_on_talks/</link>
+      <pubDate>Sat, 24 Aug 2024 00:12:08 +0800</pubDate>
+      <guid>http://localhost:1313/talks/test_on_talks/</guid>
+      <description>this is test on talks #1 </description>
+    </item>
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/news/test/</link>
+      <pubDate>Sat, 24 Aug 2024 00:05:47 +0800</pubDate>
+      <guid>http://localhost:1313/news/test/</guid>
+      <description>this is test #1 </description>
+    </item>
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/post/talks/</link>
+      <pubDate>Fri, 23 Aug 2024 19:23:51 +0800</pubDate>
+      <guid>http://localhost:1313/post/talks/</guid>
+      <description>tst_talks</description>
+    </item>
+    <item>
+      <title>Questions</title>
+      <link>http://localhost:1313/post/questions/</link>
+      <pubDate>Fri, 23 Aug 2024 19:23:42 +0800</pubDate>
+      <guid>http://localhost:1313/post/questions/</guid>
+      <description>tst_questions</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Fri, 23 Aug 2024 19:23:26 +0800</pubDate>
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>test_about</description>
+    </item>
+  </channel>
+</rss>
