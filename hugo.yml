@@ -16,7 +16,7 @@ hasCJKLanguage: true
 enableRobotsTXT: true
 
 # 是否构建草稿
-buildDrafts: false #change this when necessary
+buildDrafts: true #change this when necessary
 # 是否构建未来的文章
 buildFuture: false
 # 是否构建过期的文章
@@ -113,8 +113,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: T宇奇's BLOG
-    subtitle: '剑指洛杉矶！'
-    imageUrl: 'https://img.picui.cn/free/2024/08/23/66c84ab989ac5.jpg'
+    subtitle: '强者愈弱...'
+    imageUrl: ''
     imageWidth: 120
     imageHeight: 120
     imageTitle: T宇奇

@@ -1,0 +1,30 @@
+.left-side-control {
+    position: fixed; /* 固定在屏幕的某个位置 */
+    top: 100px; /* 调整垂直位置 */
+    left: 20px; /* 调整水平位置 */
+    z-index: 1000; /* 确保控件在其他元素之上 */
+}
+
+.image-container {
+    cursor: pointer;
+}
+
+.clickable-image {
+    transition: transform 0.6s ease-in-out;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.image-container.clicked .clickable-image {
+    transform: scale(1.5) rotate(360deg);
+}
+
+.image-text {
+    display: none;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.image-container.clicked .image-text {
+    display: block;
+}

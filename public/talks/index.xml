@@ -11,14 +11,6 @@
     </image>
     <generator>Hugo -- 0.133.0</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 24 Aug 2024 00:12:08 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/talks/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test_on_talks</title>
-      <link>http://localhost:1313/talks/test_on_talks/</link>
-      <pubDate>Sat, 24 Aug 2024 00:12:08 +0800</pubDate>
-      <guid>http://localhost:1313/talks/test_on_talks/</guid>
-      <description>this is test on talks #1 </description>
-    </item>
   </channel>
 </rss>
